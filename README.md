@@ -1,2 +1,2 @@
 # typeahead.js
-typeahead.js is the popular javascript library created by twitter.
+- reference: https://twitter.github.io/typeahead.js/

@@ -1,0 +1,13 @@
+#the-basics{
+		font-size: 2em;	
+		margin-left: 120px;
+
+}
+
+#the-basics input{
+	padding: 10px;
+}
+
+.container{
+	margin-top: 15%;
+}
